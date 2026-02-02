@@ -1,5 +1,3 @@
-import { IoIosSearch } from "react-icons/io";
-import { RxDotsHorizontal } from "react-icons/rx";
 import { bookCovers } from "../../../constants";
 import { useRef } from "react";
 import { useGSAP } from "@gsap/react";
