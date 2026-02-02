@@ -35,7 +35,7 @@ const Hero = () => {
       <div className="flex flex-col gap-5 sm:max-w-[30vw]">
         <p className=" font-bold leading-8 text-xl md:text-3xl lg:text-5xl lg:leading-18">
           Buy and sell your books{" "} <br className="sm:hidden" />
-          <span className="text-[#6366f1]">for the best prices</span>
+          <span className="text-[#6366f1]">for the best prices MIKI</span>
         </p>
         <p className="text-sm hidden sm:block md:text-base">
           Find and read more your'll love, and keep track of the books you want
