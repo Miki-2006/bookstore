@@ -18,7 +18,7 @@ const Hero = () => {
     });
 
     tl.to(imagesRef.current.querySelectorAll("img"), {
-      rotation: (i, target, targets) => (targets.length - 1 - i) * 4,
+      rotation: (i, _target, targets) => (targets.length - 1 - i) * 4,
       transformOrigin: "bottom right",
       duration: 1,
       ease: "power2.out",
